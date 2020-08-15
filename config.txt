@@ -1,0 +1,3 @@
+from_channels_ids_splitted with space
+target_channels_ids_splitted with space
+discord_token
